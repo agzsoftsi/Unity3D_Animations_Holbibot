@@ -22,3 +22,9 @@ In this repository you will find all the necessary content to review the operati
 - ProjectSettings [Open](ProjectSettings/)
 
 - VideosDemo [Open](VideosDemo/)
+
+
+
+# Author:
+
+Carlos Andres Garcia Morales [Gmail](agzsoftsi@gmail.com) - [Github](https://github.com/agzsoftsi) - [Twitter][https://twitter.com/karlgarmor]
